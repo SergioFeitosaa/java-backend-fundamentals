@@ -1,4 +1,4 @@
-package logicaProgramacao.E_arrayList;
+package logicaProgramacao.E_arrayList.basico;
 import java.util.ArrayList;
 
 public class Ex_01 {

@@ -1,8 +1,8 @@
-package logicaProgramacao.E_arrayList.ex_10;
+package logicaProgramacao.E_arrayList.desafios.filtroAlunosPorCriterio;
 
 import java.util.ArrayList;
 
-public class Domain {
+public class Aluno_test {
     public static void main(String[] args) {
         Aluno aluno1 = new Aluno();
         aluno1.nome = "João";
@@ -62,7 +62,6 @@ public class Domain {
                melhorAluno = aluno;
            }
        }
-
         System.out.println("Quantidade alunos aprovados: " + listaAlunosAprovados.size());
         System.out.println("ALuno maior nota: " + melhorAluno.nota);
 

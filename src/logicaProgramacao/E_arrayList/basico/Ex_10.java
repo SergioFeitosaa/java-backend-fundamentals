@@ -1,8 +1,8 @@
-package logicaProgramacao.E_arrayList;
+package logicaProgramacao.E_arrayList.basico;
 
 import java.util.ArrayList;
 
-public class Ex_09_1 {
+public class Ex_10 {
     // Exercício 9.1 — Filtrar números pares
 //     Objetivo: Criar uma lista de números, Criar uma segunda lista
 //    Adicionar na segunda lista apenas números pares e a sua soma

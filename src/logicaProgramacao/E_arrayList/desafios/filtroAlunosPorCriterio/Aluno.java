@@ -1,4 +1,4 @@
-package logicaProgramacao.E_arrayList.ex_10;
+package logicaProgramacao.E_arrayList.desafios.filtroAlunosPorCriterio;
 
 //Exercício 10 — POO + ArrayList
 //Crie um programa em Java que simule um pequeno sistema de controle de alunos.
