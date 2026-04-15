@@ -1,6 +1,4 @@
-package POO.metodos.aplicacoes;
-
-import java.util.Random;
+package POO.metodos.aplicacoes.ex_01_personagem;
 
 public class Personagem {
     String nome;

@@ -1,4 +1,4 @@
-package POO.metodos.aplicacoes;
+package POO.metodos.aplicacoes.ex_01_personagem;
 
 public class PersonagemTest {
     public static void main(String[] args) {
