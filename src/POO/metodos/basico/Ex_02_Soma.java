@@ -1,4 +1,4 @@
-package POO.metodos;
+package POO.metodos.basico;
 
 public class Ex_02_Soma {
 //    Exercício 2 — Soma de Dois Números

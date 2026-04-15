@@ -1,4 +1,4 @@
-package POO.metodos;
+package POO.metodos.basico;
 
 public class Ex_03_MaiorIdade {
 //    Exercício 3 — Verificar Maior de Idade

@@ -1,4 +1,4 @@
-package POO.metodos;
+package POO.metodos.basico;
 
 public class Ex_01_Saudacao {
     public String saudacao (String nome) {
