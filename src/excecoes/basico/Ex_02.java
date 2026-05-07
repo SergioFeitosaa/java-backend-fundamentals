@@ -1,4 +1,4 @@
-package excecoes;
+package excecoes.basico;
 
 public class Ex_02 {
     public static void main(String[] args) {

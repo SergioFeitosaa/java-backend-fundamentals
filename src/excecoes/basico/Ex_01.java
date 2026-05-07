@@ -1,4 +1,4 @@
-package excecoes;
+package excecoes.basico;
 
 public class Ex_01 {
     // Exercicio 1 - Compila ou não? - Sim
