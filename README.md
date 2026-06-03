@@ -53,27 +53,3 @@ Core data structures used in professional Java development.
 This repository is constantly updated with new exercises and challenges as I advance through each subject.
 
 Each implementation represents a step in my journey toward becoming a more prepared and consistent backend developer. Topics are added in the same order they are studied — so the commit history reflects my real learning progression.
-
----
-
-## 🗺️ Study roadmap
-
-```
-✅ Lambda
-✅ Stream API
-🔄 Collections
-🔄 Optional
----
-
-## 🛠️ Tech stack
-
-![Java](https://img.shields.io/badge/Java-17-orange?style=flat-square&logo=java)
-![Maven](https://img.shields.io/badge/Maven-build-red?style=flat-square&logo=apachemaven)
-
----
-
-## 🔗 Also check out
-
-Looking for my real-world projects? They live in a separate repository focused on practical backend development with Spring Boot and REST APIs.
-
-[![Project Repository](https://img.shields.io/badge/Projects-java--backend--projects-black?style=flat-square&logo=github)](https://github.com/seu-usuario/seu-repositorio-de-projetos)
