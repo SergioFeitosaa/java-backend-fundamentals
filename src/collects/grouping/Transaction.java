@@ -1,4 +1,4 @@
-package lambdaStream.collect;
+package collects.grouping;
 
 import java.util.Comparator;
 import java.util.List;
